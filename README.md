@@ -26,7 +26,7 @@
 <p align="center">
   <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Como usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -50,13 +50,13 @@ O projeto foi desenvolvido com as principais tecnologias:
 
 
 
-## :information_source:Como usar
+## :information_source: Como usar
 
 Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [NPM](https://docs.npmjs.com) instalados no seu computador.
 
 
 
-### Intalação da  API
+### Intalação da API
 
 No terminal de os seguintes comandos:
 ```bash
